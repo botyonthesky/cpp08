@@ -1,0 +1,10 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "span",
+			"command": "make",
+			"type": "shell",
+		}
+	]
+}
